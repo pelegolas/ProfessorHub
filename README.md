@@ -1,4 +1,4 @@
 # ProfessorHub
-Professor HUb Prototype
+Professor Hub Prototype
 
 Versão 1.0
